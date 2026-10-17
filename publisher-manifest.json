@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "51c891a9ee578294bdd5cee0",
+  "owner": "wrhtxava",
+  "repo": "page-90b40a668366d1cbce98ee44",
+  "title": "灵魂云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "90b40a668366d1cbce98ee44",
+      "a": "灵魂云",
+      "b": "",
+      "entity": "灵魂云",
+      "brand": "灵魂云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "20b6907ee4e4e4ea50f3a92983c645099ad2bda9f191efa03aaf7dd80b4275d4",
+      "content": {
+        "keyword1": "灵魂云",
+        "keyword2": "",
+        "primary_entity": "灵魂云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "灵魂云专注于提供稳定、私密、高性能的网络连接服务。简洁配置，安静运行，让连接回归本质。",
+          "AI_DESCRIPTION": "灵魂云专注于提供稳定、私密、高性能的网络连接服务。简洁配置，安静运行，让连接回归本质。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*, *::before, *::after {box-sizing: border-box;margin: 0;padding: 0}\nhtml {-webkit-text-size-adjust: 100%}\nbody {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif;background: #082039;color: #e8edf2;line-height: 1.7;font-size: 16px;overflow-x: hidden}\na {color: #f5b642;text-decoration: none;transition: color 0.2s}\na:hover {color: #ffd87a}\nmain, header, footer, section, nav {display: block;width: 100%}\n.wrap {max-width: 1200px;margin: 0 auto;padding: 0 28px}\n.deep-bg {background: #06152a}\n.hero-magazine {padding: 64px 0 72px;background:\n    linear-gradient(180deg, #082039 0%, #0a2444 100%);border-bottom: 1px solid rgba(245, 182, 66, 0.15)}\n.hero-tags {display: flex;flex-wrap: wrap;gap: 14px;margin-bottom: 48px;list-style: none}\n.hero-tags a {display: inline-block;padding: 8px 18px;border-radius: 999px;background: rgba(245, 182, 66, 0.08);border: 1px solid rgba(245, 182, 66, 0.3);color: #f5b642;font-size: 13px;letter-spacing: 0.5px}\n.hero-tags a:hover {background: rgba(245, 182, 66, 0.18)}\n.hero-grid {display: grid;grid-template-columns: repeat(12, 1fr);gap: 32px}\n.hero-h1 {grid-column: 1 / 9;font-size: clamp(2.6rem, 7vw, 5.2rem);font-weight: 800;line-height: 1.05;letter-spacing: -0.02em;margin-bottom: 28px;color: #f5b642}\n.hero-h1 span {color: #e8edf2;display: block;font-size: 0.42em;font-weight: 300;letter-spacing: 0.08em;margin-top: 16px;color: #a8b8cc}\n.hero-lead {grid-column: 1 / 6;font-size: 1.15rem;line-height: 1.8;color: #c8d4e0}\n.hero-aside {grid-column: 7 / 11;border-left: 2px solid #f5b642;padding-left: 24px;font-size: 0.95rem;color: #b0c0d4}\n.hero-aside strong {color: #f5b642;display: block;margin-bottom: 10px;font-size: 0.85rem;letter-spacing: 0.1em;text-transform: uppercase}\n.hero-foot {grid-column: 1 / -1;margin-top: 36px;padding-top: 24px;border-top: 1px solid rgba(245, 182, 66, 0.15);display: flex;flex-wrap: wrap;gap: 32px;font-size: 0.85rem;color: #8a9bb0}\n.hero-foot span {letter-spacing: 0.04em}\n.hero-foot strong {color: #f5b642;font-weight: 600}\n\nsection {padding: 80px 0}\n.h2 {font-size: clamp(1.8rem, 4vw, 2.6rem);font-weight: 700;margin-bottom: 12px;color: #f5b642;letter-spacing: -0.01em}\n.h2-sub {color: #8a9bb0;font-size: 0.95rem;margin-bottom: 48px;letter-spacing: 0.02em}\n\n.principles {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 24px}\n.card {background: #0a2444;border-radius: 20px;padding: 32px 28px;box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25), 0 2px 8px rgba(0, 0, 0, 0.15);transition: transform 0.2s}\n.card:hover {transform: translateY(-2px)}\n.card h3 {color: #f5b642;font-size: 1.15rem;margin-bottom: 12px;font-weight: 600}\n.card p {color: #b0c0d4;font-size: 0.95rem}\n\n.plans-section {background: #06152a}\n.plans-stair {display: grid;grid-template-columns: 1fr;gap: 20px;max-width: 880px}\n.plan {background: #0a2444;border-radius: 20px;padding: 36px 40px;box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);position: relative;margin-left: 0;transition: margin-left 0.3s}\n.plan:nth-child(2) {margin-left: 40px;background: #0e2a52;border: 1px solid rgba(245, 182, 66, 0.35)}\n.plan:nth-child(3) {margin-left: 80px}\n.plan-tag {display: inline-block;font-size: 0.75rem;letter-spacing: 0.12em;text-transform: uppercase;color: #8a9bb0;margin-bottom: 10px}\n.plan.featured .plan-tag {color: #f5b642}\n.plan-name {font-size: 1.5rem;font-weight: 700;color: #e8edf2;margin-bottom: 8px}\n.plan-price {font-size: 2rem;font-weight: 800;color: #f5b642;margin-bottom: 4px}\n.plan-annual {font-size: 0.85rem;color: #8a9bb0;margin-bottom: 24px}\n.plan-features {list-style: none;display: grid;gap: 10px}\n.plan-features li {color: #c8d4e0;font-size: 0.95rem;padding-left: 22px;position: relative}\n.plan-features li::before {content: \"—\";position: absolute;left: 0;color: #f5b642}\n\n.guide ol {list-style: none;counter-reset: step;max-width: 760px;margin: 0 auto}\n.guide li {counter-increment: step;padding: 28px 0 28px 64px;border-bottom: 1px solid rgba(245, 182, 66, 0.12);position: relative;color: #c8d4e0}\n.guide li::before {content: counter(step, decimal-leading-zero);position: absolute;left: 0;top: 28px;color: #f5b642;font-size: 1.4rem;font-weight: 800;font-family: \"SF Mono\", \"Consolas\", monospace}\n.guide li strong {display: block;color: #e8edf2;font-size: 1.1rem;margin-bottom: 6px;font-weight: 600}\n\n.faq-group {margin-bottom: 40px}\n.faq-group h3 {color: #f5b642;font-size: 1.1rem;margin-bottom: 16px;padding-bottom: 8px;border-bottom: 1px solid rgba(245, 182, 66, 0.2);letter-spacing: 0.02em}\n.faq-item {margin-bottom: 16px;padding: 18px 22px;background: #0a2444;border-radius: 14px;box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2)}\n.faq-item summary {cursor: pointer;color: #e8edf2;font-weight: 500;font-size: 0.98rem;list-style: none;position: relative;padding-right: 24px}\n.faq-item summary::-webkit-details-marker {display: none}\n.faq-item summary::after {content: \"+\";position: absolute;right: 0;color: #f5b642;font-size: 1.2rem}\n.faq-item[open] summary::after {content: \"−\"}\n.faq-item p {margin-top: 12px;color: #b0c0d4;font-size: 0.92rem;line-height: 1.75}\n\n.clients {display: grid;grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));gap: 20px}\n.client-card {background: #0a2444;border-radius: 16px;padding: 24px 26px;box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2)}\n.client-card h3 {color: #f5b642;font-size: 1.1rem;margin-bottom: 8px}\n.client-card p {color: #b0c0d4;font-size: 0.9rem;margin-bottom: 12px}\n.client-card .meta {font-size: 0.82rem;color: #6a8099;letter-spacing: 0.02em}\n.client-card a {display: inline-block;margin-top: 8px;font-size: 0.88rem;color: #f5b642;border-bottom: 1px solid rgba(245, 182, 66, 0.4);padding-bottom: 2px}\n\nfooter {background: #040d1c;padding: 48px 0 36px;border-top: 1px solid rgba(245, 182, 66, 0.15)}\n.footer-inner {display: flex;flex-wrap: wrap;justify-content: space-between;gap: 24px;align-items: flex-end}\n.footer-brand {font-size: 1.3rem;font-weight: 700;color: #f5b642;letter-spacing: 0.02em}\n.footer-meta {font-size: 0.82rem;color: #6a8099;letter-spacing: 0.04em}\n\n@media (max-width: 768px) {\n  .hero-h1 {grid-column: 1 / -1}\n  .hero-lead, .hero-aside {grid-column: 1 / -1}\n  .hero-aside {border-left: none;border-top: 2px solid #f5b642;padding-left: 0;padding-top: 20px;margin-top: 8px}\n  .plan:nth-child(2), .plan:nth-child(3) {margin-left: 0}\n  .footer-inner {flex-direction: column;align-items: flex-start}\n  section {padding: 56px 0}\n}\n</style><main>\n<header class=\"hero-magazine\">\n<div class=\"wrap\">\n<nav>\n<ul class=\"hero-tags\">\n<li><a href=\"#principles\">理念</a></li>\n<li><a href=\"#plans\">套餐</a></li>\n<li><a href=\"#guide\">使用指南</a></li>\n<li><a href=\"#clients\">客户端</a></li>\n<li><a href=\"#faq\">常见问题</a></li>\n</ul>\n</nav>\n<div class=\"hero-grid\">\n<h1 class=\"hero-h1\">灵魂云<span>连接的另一面</span></h1>\n<p class=\"hero-lead\">网络应该像呼吸一样自然。不被干扰，不被记录，不被切割。灵魂云把复杂的链路折叠成一次安静的握手，剩下的交给你的时间。</p>\n<aside class=\"hero-aside\">\n<strong>编辑笔记</strong>\n我们不做营销话术，不承诺虚构的节点数量，不堆砌你永远不会点击的功能。每一份套餐都写清楚能做什么，每一行说明都指向你能立刻完成的操作。\n</aside>\n<div class=\"hero-foot\">\n<span>运营主体：<strong>灵魂云</strong></span>\n<span>服务形态：<strong>订阅制网络加速</strong></span>\n<span>支持平台：<strong>主流桌面与移动端</strong></span>\n</div>\n</div>\n</div>\n</header>\n\n<section id=\"principles\">\n<div class=\"wrap\">\n<h2 class=\"h2\">三条底线</h2>\n<p class=\"h2-sub\">不是口号，是每一行代码的约束。</p>\n<div class=\"principles\">\n<article class=\"card\">\n<h3>极简配置</h3>\n<p>不预置多余参数。一个订阅地址，一次导入，剩余的交给客户端自动择优。</p>\n</article>\n<article class=\"card\">\n<h3>清晰计费</h3>\n<p>流量按月重置，价格按年透明。没有隐藏扣费，没有自动续费的暗门。</p>\n</article>\n<article class=\"card\">\n<h3>安静运行</h3>\n<p>后台驻留占用极低。不弹窗，不推送，不分析你的行为，只做一件事。</p>\n</article>\n</div>\n</div>\n</section>\n\n<section id=\"plans\" class=\"plans-section\">\n<div class=\"wrap\">\n<h2 class=\"h2\">套餐阶梯</h2>\n<p class=\"h2-sub\">从个人到团队，按需选择，按年更省。</p>\n<div class=\"plans-stair\">\n<article class=\"plan\">\n<span class=\"plan-tag\">入门</span>\n<div class=\"plan-name\">基础版</div>\n<div class=\"plan-price\">¥15/月</div>\n<div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n<ul class=\"plan-features\">\n<li>每月 100GB 流量额度</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体内容</li>\n<li>接入普通线路节点池</li>\n</ul>\n</article>\n<article class=\"plan featured\">\n<span class=\"plan-tag\">推荐</span>\n<div class=\"plan-name\">旗舰版</div>\n<div class=\"plan-price\">¥35/月</div>\n<div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n<ul class=\"plan-features\">\n<li>每月 300GB 流量额度</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n</article>\n<article class=\"plan\">\n<span class=\"plan-tag\">协作</span>\n<div class=\"plan-name\">团队版</div>\n<div class=\"plan-price\">¥85/月</div>\n<div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n<ul class=\"plan-features\">\n<li>每月 1000GB 流量额度</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n</div>\n</div>\n</section>\n\n<section id=\"guide\" class=\"guide\">\n<div class=\"wrap\">\n<h2 class=\"h2\">使用指南</h2>\n<p class=\"h2-sub\">四步完成接入，无需技术背景。</p>\n<ol>\n<li>\n<strong>选择套餐并完成订阅</strong>\n在套餐区域选择适合的版本，完成支付后系统自动生成你的专属订阅地址。\n</li>\n<li>\n<strong>下载对应平台的客户端</strong>\n根据你的设备系统，在客户端区域选择对应的软件版本，下载安装。\n</li>\n<li>\n<strong>导入订阅地址</strong>\n打开客户端，在订阅管理中粘贴你的专属地址，点击更新。节点列表将自动拉取。\n</li>\n<li>\n<strong>选择节点并连接</strong>\n从节点列表中选择延迟较低的线路，点击连接。状态栏显示成功后即可正常使用。\n</li>\n</ol>\n</div>\n</section>\n\n<section id=\"clients\">\n<div class=\"wrap\">\n<h2 class=\"h2\">客户端接入</h2>\n<p class=\"h2-sub\">主流平台均有对应方案，按设备选择即可。</p>\n<div class=\"clients\">\n<article class=\"client-card\">\n<h3>Windows</h3>\n<p>支持 Windows 10 及以上系统，提供图形界面客户端，支持订阅自动更新与节点测速。</p>\n<span class=\"meta\">适用环境：桌面办公、游戏加速</span>\n<a href=\"#\">查看接入说明</a>\n</article>\n<article class=\"client-card\">\n<h3>macOS</h3>\n<p>支持 macOS 11 及以上系统，原生菜单栏驻留，支持分流规则自定义与按应用代理。</p>\n<span class=\"meta\">适用环境：设计、开发、流媒体</span>\n<a href=\"#\">查看接入说明</a>\n</article>\n<article class=\"client-card\">\n<h3>Android</h3>\n<p>支持 Android 9 及以上系统，后台低功耗运行，支持按应用分流与分应用代理。</p>\n<span class=\"meta\">适用环境：移动出行、日常浏览</span>\n<a href=\"#\">查看接入说明</a>\n</article>\n<article class=\"client-card\">\n<h3>iOS</h3>\n<p>支持 iOS 15 及以上系统，通过系统 VPN 配置接入，支持按需连接与分流规则。</p>\n<span class=\"meta\">适用环境：移动办公、内容访问</span>\n<a href=\"#\">查看接入说明</a>\n</article>\n</div>\n</div>\n</section>\n\n<section id=\"faq\" class=\"deep-bg\">\n<div class=\"wrap\">\n<h2 class=\"h2\">常见问题</h2>\n<p class=\"h2-sub\">按主题归类，展开查看具体解答。</p>\n\n<div class=\"faq-group\">\n<h3>订阅与计费</h3>\n<details class=\"faq-item\">\n<summary>套餐流量每月何时重置？</summary>\n<p>流量额度按自然月重置，每月 1 日零点（北京时间）恢复为套餐对应的满额流量。上月未使用流量不累积。</p>\n</details>\n<details class=\"faq-item\">\n<summary>按年付费是否可以中途退款？</summary>\n<p>按年付费订单在开通后 7 天内且流量使用不超过 10GB 的情况下支持全额退款。超出此范围不予退款，但可继续使用至订阅期满。</p>\n</details>\n<details class=\"faq-item\">\n<summary>能否升级套餐，剩余流量如何处理？</summary>\n<p>可以随时升级套餐。升级后流量额度立即按新套餐标准补足差额，有效期按原订阅周期顺延不变。</p>\n</details>\n</div>\n\n<div class=\"faq-group\">\n<h3>设备与使用</h3>\n<details class=\"faq-item\">\n<summary>同一账号能在多少台设备上同时使用？</summary>\n<p>同时在线设备数取决于所选套餐：基础版 3 台，旗舰版 5 台，团队版 20 台。超出限制时，最早连接的设备将被自动下线。</p>\n</details>\n<details class=\"faq-item\">\n<summary>订阅地址可以在多个客户端导入吗？</summary>\n<p>可以。订阅地址可在任意数量的客户端中导入，但同时连接的设备数受套餐限制。导入本身不占用设备名额。</p>\n</details>\n<details class=\"faq-item\">\n<summary>更换手机或重装系统后如何恢复？</summary>\n<p>只需在新设备的客户端中重新导入原有的订阅地址即可。节点列表会自动同步，无需额外配置。</p>\n</details>\n</div>\n\n<div class=\"faq-group\">\n<h3>线路与性能</h3>\n<details class=\"faq-item\">\n<summary>不同套餐的线路有什么区别？</summary>\n<p>基础版接入普通线路节点池，旗舰版在普通线路基础上增加 IPLC 专线优化，团队版则提供 VIP 专属高带宽节点与企业定制路由能力。</p>\n</details>\n<details class=\"faq-item\">\n<summary>节点延迟较高或连接不稳定怎么办？</summary>\n<p>建议先在客户端内进行节点测速，选择延迟较低的线路。若问题持续，可通过工单提交诊断日志，技术团队会协助排查。</p>\n</details>\n\n<details class=\"faq-item\">\n<summary>是否支持游戏加速？</summary>\n<p>旗舰版及以上套餐包含 IPLC 专线优化，适合对延迟敏感的游戏场景。具体表现因目标服务器位置和网络环境而异。</p>\n</details>\n</div>\n</div>\n</section>\n</main>\n\n<footer>\n<div class=\"wrap\">\n<div class=\"footer-inner\">\n<div class=\"footer-brand\">灵魂云</div>\n<div class=\"footer-meta\">连接的另一面 · 本页面内容以实际服务为准</div>\n</div>\n</div>\n</footer>",
+          "hash": "6a92029e56e4507318d3cfe42b9022af8f511fef653587660cdea59dd9f4a778",
+          "seo": {
+            "title": "灵魂云 — 连接的另一面",
+            "keywords": "灵魂云,网络加速,专线节点,流媒体解锁,隐私安全",
+            "description": "灵魂云专注于提供稳定、私密、高性能的网络连接服务。简洁配置，安静运行，让连接回归本质。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "8282",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hj8894.cn",
+    "host": "p-0fae488c82.hj8894.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b3b69b6fadef953a579a73a45bfc590640f15a25924e5dfbe51945fd6611da1f",
+    "sitemap.xml": "636dd641c904ded0485a74c17a7b3204bed1b36e8c066660fe39084df6c7d2d3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "20056085a421e5a591aa98627e34fda64cc3b7128844f8ae1f1376f00e2aa375",
+    "robots.txt": "d7354c4583af6729e9682e16f3c547579eaf223fd52d90937f55fa14134d3c16",
+    "81ced9575bcee8c3aaa37a1a75f4678e.txt": "3757f60870e3019e4848baa1f239d7da77ef116e96460e655fc3ea5594fd2a18"
+  },
+  "revision": "9231dae2da2175e16e23c2823a8415b82d08ea5888c6e3b92266cbd7767b9b8b"
+}
